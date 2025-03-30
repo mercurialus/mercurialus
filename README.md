@@ -1,14 +1,14 @@
 # Hey there, I'm Harshil! 👋
 
-I'm a student at [IIT Hyderabad](https://www.iith.ac.in/) pursuing a B.Tech in Mathematics & Computing. I like to think of myself as a code whisperer—transforming complex problems into elegant solutions (with a dash of humor and a sprinkle of nerdiness).
+I'm a student at [IIT Hyderabad](https://www.iith.ac.in/) pursuing a B.Tech in Mathematics & Computing. I enjoy turning complex problems into simple, thoughtful solutions—usually with a touch of humor and a healthy dose of curiosity.
 
 ## 🧠 About Me
 
-- 💻 **Tech Enthusiast:** From blockchain data trading to custom network tools and precision calculators, I love exploring different realms of technology.
-- 🎯 **Problem Solver:** Whether it's optimizing algorithms or building a calculator that handles 1000+ digit arithmetic, I’m always up for a challenge.
+- 💻 **Tech Enthusiast:** From blockchain and machine learning all the way to low-level systems and custom tools, I love exploring different realms of technology.
+- 🎯 **Problem Solver:** Whether it's optimizing algorithms or brainstorming random ideas and problems, I’m always up for a challenge.
 - 🤝 **Team Player:** Currently leading the tech squad at IIT Hyderabad’s cybersec club, where we hack away at CTFs and host events that are only mildly chaotic.
 - 🧩 **Cubing:** Trying my hand at speedcubing, but for now... I’m just cubing.
-- 🏓 **Table Tennis:** I enjoy fast rallies and friendly banter with my TT buddy.
+- 🏓 **Table Tennis:** I enjoy fast rallies and friendly banter with my friend.
 - 🚶‍♂️ **Long Walks Enthusiast:** Nothing beats a good walk to clear your head (and secretly debug that one nasty bug).
 
 ## 🛠️ Projects Worth Peeking At
