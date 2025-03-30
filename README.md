@@ -1,6 +1,6 @@
 # Hey there, I'm Harshil! 👋
 
-I'm a student at [IIT Hyderabad](https://www.iith.ac.in/) pursuing a B.Tech in Mathematics & Computing. I enjoy turning complex problems into simple, thoughtful solutions—usually with a touch of humor and a healthy dose of curiosity.
+I'm pursuing my bachelors at [IIT Hyderabad](https://www.iith.ac.in/) in Mathematics. I enjoy turning complex problems into simple, thoughtful solutions—usually with a touch of humor and a healthy dose of curiosity.
 
 ## 🧠 About Me
 
