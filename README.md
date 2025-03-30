@@ -29,6 +29,7 @@ I'm a student at [IIT Hyderabad](https://www.iith.ac.in/) pursuing a B.Tech in M
 
 - 🕵️ **ARPie – Network Packet Sniffer & Simulator:**  
   Real-time packet analysis + spoofing for security testing. Built using Pcap++ with high-speed packet floods.
+  😴 Currently surviving on caffeine and curiosity, building more projects that might just be worth losing sleep over. If you're up for a collab (or just want to debug life together), hit me up!
 
 ## 🧰 Toolbox
 
