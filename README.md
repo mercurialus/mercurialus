@@ -28,7 +28,8 @@ I'm a student at [IIT Hyderabad](https://www.iith.ac.in/) pursuing a B.Tech in M
   CLI calculator with 1000+ digit BigInt & BigFloat support. Karatsuba multiplication and FFT included (because speed matters).
 
 - 🕵️ **ARPie – Network Packet Sniffer & Simulator:**  
-  Real-time packet analysis + spoofing for security testing. Built using Pcap++ with high-speed packet floods.
+
+  Real-time packet analysis + spoofing for security testing. Built using Pcap++ with high-speed packet floods.<br>
   😴 Currently surviving on caffeine and curiosity, building more projects that might just be worth losing sleep over. If you're up for a collab (or just want to debug life together), hit me up!
 
 ## 🧰 Toolbox
