@@ -6,7 +6,7 @@ I'm pursuing my bachelors at [IIT Hyderabad](https://www.iith.ac.in/) in Mathema
 
 - 💻 **Tech Enthusiast:** From blockchain and machine learning all the way to low-level systems and custom tools, I love exploring different realms of technology.
 - 🎯 **Problem Solver:** Whether it's optimizing algorithms or brainstorming random ideas and problems, I’m always up for a challenge.
-- 🤝 **Team Player:** Currently leading the tech squad at IIT Hyderabad’s cybersec club, where we hack away at CTFs and host events that are only mildly chaotic.
+- 🤝 **Team Player:** Currently leading the tech squad at [Kludge](https://kludge.co.in/), where we hack away at CTFs and host events that are only mildly chaotic.
 - 🧩 **Cubing:** Trying my hand at speedcubing, but for now... I’m just cubing.
 - 🏓 **Table Tennis:** I enjoy fast rallies and friendly banter with my friend.
 - 🚶‍♂️ **Long Walks Enthusiast:** Nothing beats a good walk to clear your head (and secretly debug that one nasty bug).
