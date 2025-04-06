@@ -38,10 +38,10 @@ I'm pursuing my bachelors at [IIT Hyderabad](https://www.iith.ac.in/) in Mathema
 Python, C, C++, JavaScript, Java, Go, Solidity, OCaml
 
 **Frameworks & Libraries:**  
-PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, Web3.js, OpenZeppelin, pcap++, ncurses
+PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, scikit-learn, Web3.js, OpenZeppelin, pcap++, ncurses,
 
 **Tools & Platforms:**  
-VS Code, Vim/Neovim, Jupyter, GDB, CMake, IPFS, Truffle, Ganache, Bash, Linux
+VS Code, Vim/Neovim, Jupyter, GDB, CMake, Dune, Mehnir IPFS, Truffle, Ganache, Bash, Linux
 
 <!--## 🏆 Achievements
 
