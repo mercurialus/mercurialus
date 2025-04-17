@@ -24,11 +24,15 @@ I'm pursuing my bachelors at [IIT Hyderabad](https://www.iith.ac.in/) in Mathema
   Trained deep models to reverse-engineer initial states from final outcomes of PDEs. U-Net + PyTorch magic.
 -->
 
-- 🧮 **Infinite Precision Calculator:**  
+- **Infinite Precision Calculator:**  
   CLI calculator with 1000+ digit BigInt & BigFloat support. Karatsuba multiplication and FFT included (because speed matters).
 
-- 🕵️ **ARPie – Network Packet Sniffer & Simulator:**  
+- **ARPie – Network Packet Sniffer & Simulator:**  
   Real-time packet analysis + spoofing for security testing. Built using Pcap++ with high-speed packet floods.<br>
+
+ 
+ - **Exception-Enabled MiniML Interpreter** 
+  Extened the MiniML interpreter to include integer division and support exception handling with try ... with ... blocks.<br>
   
   😴 Currently surviving on caffeine and curiosity, building more projects that might just be worth losing sleep over. If you're up for a collab (or just want to debug life together), hit me up!
 
