@@ -39,7 +39,7 @@ I'm pursuing my bachelors at [IIT Hyderabad](https://www.iith.ac.in/) in Mathema
 ## 🧰 Toolbox
 
 **Languages:**  
-Python, C, C++, JavaScript, Java, Go, Solidity, OCaml
+Python, C, C++, Java, Solidity, OCaml
 
 **Frameworks & Libraries:**  
 PyTorch, TensorFlow, NumPy, Pandas, Matplotlib, scikit-learn, Web3.js, OpenZeppelin, pcap++, ncurses,
