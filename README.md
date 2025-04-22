@@ -22,7 +22,7 @@ Exploring everything. Curious by nature, precise by practice.
   Trained deep models to reverse-engineer initial states from final outcomes of PDEs. U-Net + PyTorch magic.
 -->
 - **Blockchain Data Traceability:**  
-  Tokenizing data and listing tokens accross marketplaces using Ethereum, IPFS, and a watermark-chain verification scheme.
+  Tokenizing data and listing tokens across marketplaces using Ethereum, IPFS, and a watermark-chain verification scheme.
 
 - **Infinite Precision CLI Calculator:**  
   High-performance BigInt/BigFloat engine with Karatsuba and FFT support.
