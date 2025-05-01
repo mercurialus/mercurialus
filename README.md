@@ -32,6 +32,10 @@ Exploring everything. Curious by nature, precise by practice.
 
 - **MiniML Interpreter (Extended):**  
   Added division and exception handling to a custom functional language.
+  
+- **Multimodal Emotion Recognition from Audio and Text:**  
+  Combined CNNs (audio) and Transformers (text) for emotion recognition using RAVDESS; achieved over 80% accuracy with fusion strategies.
+  
 
 ---
 
