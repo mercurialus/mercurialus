@@ -13,5 +13,3 @@ I'm particularly interested in understanding things from first principles and bu
 
 [![Now playing on Spotify](https://spotifystats.com/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9.svg)](https://spotifystats.com/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9/open)
 
-<sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
-
