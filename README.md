@@ -9,6 +9,9 @@ I'm a final-year Mathematics student at **IIT Hyderabad**, interested in buildin
 
 I'm particularly interested in understanding things from first principles and building software that is efficient, reliable, and well-engineered.
 
-[![Now playing on Spotify](/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9.svg)](/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9/open)
+### Currently listening to
+
+[![Now playing on Spotify](https://spotifystats.com/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9.svg)](https://spotifystats.com/badge/293ec6d93b8d1face5639e6f9aa92430be7b45f9/open)
+
 <sub>via [spotifystats.com](https://spotifystats.com/?ref=badge)</sub>
 
